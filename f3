@@ -1,0 +1,5 @@
+incule <studio.h>
+int main()
+{
+print("good")
+}
